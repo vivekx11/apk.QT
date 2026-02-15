@@ -9,7 +9,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'main.dart';
 import 'setting.dart';
 
-// ── Shared Dark Background ─────────────────────────────────────
+// ── Shared Dark Background ─────────────────────────────────────......
 class DarkBackground extends StatelessWidget {
   const DarkBackground({super.key});
 
@@ -1206,3 +1206,4 @@ class AnimatedCard extends StatelessWidget {
     );
   }
 }
+
