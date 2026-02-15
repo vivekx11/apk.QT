@@ -5,7 +5,7 @@ import 'page.dart';
 
 void main() => runApp(const QuizApp());
 
-// ── Design Tokens ──────────────────────────────────────────────
+// ── Design Tokens ──────────────────────────────────────────────.....
 class AppColors {
   static const bg = Color(0xFF0F172A);
   static const surface = Color(0xFF1E293B);
@@ -259,3 +259,4 @@ class _SplashScreenState extends State<SplashScreen>
     );
   }
 }
+
